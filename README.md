@@ -1,2 +1,2 @@
 # hello-world
-Getting started
+Getting started. Hello there, wish you a joyfull day!
